@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    padding-top: 20%;
+    
+ 
+
+}
+
+h1{
+    font-size: 3rem;
+    color: aliceblue;
+    padding-bottom: 10px ;
+}
+
+h2{
+    font-size: 2rem;
+    color: aliceblue;
+}   
+
+p{
+    font-size: 1.5rem;
+    color: aliceblue;
+}
